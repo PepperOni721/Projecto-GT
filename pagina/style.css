@@ -1,0 +1,18 @@
+*{ 
+    margin :0;
+    padding: 0;
+}
+body {
+    width: 1200px;
+    background-color: azure;
+}
+.page{
+    background-color: bisque;
+    width: 1200px;
+    height: 1000px;
+    margin-left: 65px;
+}
+.navbar {
+    text-align: center;
+    background-color: whitesmoke;
+}
